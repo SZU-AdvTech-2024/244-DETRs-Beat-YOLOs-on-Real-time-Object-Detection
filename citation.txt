@@ -1,0 +1,8 @@
+@inproceedings{REPO244,
+    author = "Zhao, Yian and Lv, Wenyu and Xu, Shangliang and Wei, Jinman and Wang, Guanzhong and Dang, Qingqing and Liu, Yi and Chen, Jie",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "16965-16974",
+    title = "{DETRs Beat YOLOs on Real-time Object Detection}",
+    year = "2024"
+}
